@@ -1,10 +1,10 @@
 //+------------------------------------------------------------------+
 //|                                             MQL_OHLC_Tests_1.mq5 |
-//|                        Copyright 2018, MetaQuotes Software Corp. |
+//|                                    Copyright 2018, Darwinex Labs |
 //|                                             https://www.mql5.com |
 //+------------------------------------------------------------------+
-#property copyright "Copyright 2018, MetaQuotes Software Corp."
-#property link      "https://www.mql5.com"
+#property copyright "Copyright 2019, Darwinex Labs."
+#property link      "https://www.darwinex.com"
 #property version   "1.00"
 //+------------------------------------------------------------------+
 //| Expert initialization function                                   |
