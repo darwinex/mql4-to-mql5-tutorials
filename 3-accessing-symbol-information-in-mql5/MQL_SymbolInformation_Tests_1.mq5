@@ -1,7 +1,7 @@
 //+------------------------------------------------------------------+
 //|                                MQL_SymbolInformation_Tests_1.mq5 |
 //|                                    Copyright 2018, Darwinex Labs |
-//|                                             https://www.mql5.com |
+//|                                         https://www.darwinex.com |
 //+------------------------------------------------------------------+
 #property copyright "Copyright 2019, Darwinex Labs."
 #property link      "https://www.darwinex.com"
