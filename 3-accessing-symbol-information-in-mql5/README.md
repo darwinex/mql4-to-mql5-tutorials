@@ -19,6 +19,10 @@ This tutorial describes how to access Symbol data in MQL5.
 
 5) How having the extra detail in MQL5 can benefit trading strategy developers currently using MQL4.
 
+Video Tutorial:
+--
+[Click here to watch it on YouTube!](https://www.youtube.com/watch?v=Hb5lu-N6dIQ)
+
 Source Code Examples:
 --
 https://github.com/darwinex/mql4-to-mql5-tutorials/tree/master/3-accessing-symbol-information-in-mql5
