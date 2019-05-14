@@ -1,5 +1,5 @@
-## Tutorial 3 - Accessing Symbol Information in MQL5 vs MQL4
-### Migrating from MQL4 to MQL5: Guidance for Algorithmic Traders
+## Migrating from MQL4 to MQL5: Guidance for Algorithmic Traders
+### Tutorial 3 - Accessing Symbol Information in MQL5 vs MQL4
 
 This tutorial describes how to access Symbol data in MQL5.
 
