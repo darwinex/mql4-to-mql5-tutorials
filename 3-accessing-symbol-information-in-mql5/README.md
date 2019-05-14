@@ -21,7 +21,7 @@ This tutorial describes how to access Symbol data in MQL5.
 
 Video Tutorial:
 --
-[Click here to watch it on YouTube!](https://www.youtube.com/watch?v=Hb5lu-N6dIQ)
+<a href='https://www.youtube.com/watch?v=8DVqhmItptU&list=PLv-cA-4O3y9407-3MUxlH6LNa_1XuYlV-&index=2' target='_blank'><img src='../resources/images/video-play-button.png'  width='220' height='165' /></a>
 
 Source Code Examples:
 --
