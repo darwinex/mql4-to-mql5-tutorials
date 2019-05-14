@@ -1,4 +1,5 @@
-## Migrating from MQL4 to MQL5: Guidance for Algorithmic Traders
+## Tutorial 3 - Accessing Symbol Information in MQL5 vs MQL4
+### Migrating from MQL4 to MQL5: Guidance for Algorithmic Traders
 
 With this series of tutorials, we aim to educate MetaTrader 4 (MQL4) users on the benefits of MetaTrader 5 over its predecessor MetaTrader 4.
 
