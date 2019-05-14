@@ -9,7 +9,7 @@ In this 1st video, we discuss the key differences between the two platforms that
 Enjoy!
 
 ### Watch it on YouTube:
-<a href="https://youtu.be/pwDgCr1KK1g" target="_blank"><img src='../resources/images/video-play-button.png'  width='220' height='165' /></a>
+<a href="https://www.youtube.com/watch?v=pwDgCr1KK1g&list=PLv-cA-4O3y9407-3MUxlH6LNa_1XuYlV-&index=1" target="_blank"><img src='../resources/images/video-play-button.png'  width='220' height='165' /></a>
 ---
 
 # Are you an algorithmic trader? 
