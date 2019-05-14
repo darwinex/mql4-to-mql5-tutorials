@@ -1,5 +1,5 @@
-## Tutorial 1 - Differences between MetaTrader 4 and MetaTrader 5.
-### Migrating from MQL4 to MQL5: Guidance for Algorithmic Traders
+## Migrating from MQL4 to MQL5: Guidance for Algorithmic Traders
+### Tutorial 1 - Differences between MetaTrader 4 and MetaTrader 5.
 
 With this series of tutorials, we aim to educate MetaTrader 4 (MQL4) users on the benefits of MetaTrader 5 over its predecessor MetaTrader 4.
 
