@@ -1,5 +1,5 @@
-## Tutorial 2 - Accessing OHLCV and Bid/Ask Prices in MQL5 vs MQL4
-### Migrating from MQL4 to MQL5: Guidance for Algorithmic Traders
+## Migrating from MQL4 to MQL5: Guidance for Algorithmic Traders
+### Tutorial 2 - Accessing OHLCV and Bid/Ask Prices in MQL5 vs MQL4
 
 This tutorial shows algorithmic traders using MetaTrader 4 (MQL4), how to retrieve current BID / ASK and historical OHLCV prices in MQL5 (MetaTrader 5). 
 
