@@ -8,6 +8,7 @@ In this 1st video, we discuss the key differences between the two platforms that
 
 Enjoy!
 
+### Watch it on YouTube:
 <a href="https://youtu.be/pwDgCr1KK1g" target="_blank"><img src='../resources/images/video-play-button.png'  width='220' height='165' /></a>
 ---
 
